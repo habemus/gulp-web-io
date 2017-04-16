@@ -1,0 +1,21 @@
+{
+  "name": "gulp-web-io",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp-util": "^3.0.8",
+    "through2": "^2.0.3",
+    "web-io": "git+ssh://git@github.com/habemus/web-io.git"
+  },
+  "devDependencies": {
+    "faker": "^4.1.0",
+    "gulp": "^3.9.1",
+    "rimraf": "^2.6.1"
+  }
+}
